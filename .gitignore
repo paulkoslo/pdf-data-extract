@@ -1,0 +1,10 @@
+# Keep local research inputs and generated artifacts out of git.
+data/
+Data/
+
+# Local environment files.
+.env
+.venv/
+
+# Python cache files.
+__pycache__/
