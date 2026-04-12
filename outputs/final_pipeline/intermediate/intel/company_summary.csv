@@ -1,0 +1,2 @@
+firm_name,files_processed,pages_total,pages_excluded,chunks_total,chunks_indexed,retrieved_rows,deduplicated_retrieval_rows,classification_rows,final_relevant_rows,low_output_warning
+Intel,5,813,221,1602,1600,345,135,135,126,False

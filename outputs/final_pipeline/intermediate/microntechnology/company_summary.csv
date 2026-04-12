@@ -1,0 +1,2 @@
+firm_name,files_processed,pages_total,pages_excluded,chunks_total,chunks_indexed,retrieved_rows,deduplicated_retrieval_rows,classification_rows,final_relevant_rows,low_output_warning
+MicronTechnology,5,695,23,1544,1541,345,146,146,138,False
