@@ -10,3 +10,4 @@ Data/
 __pycache__/
 .env
 .env
+outputs/final_pipeline/.DS_Store
