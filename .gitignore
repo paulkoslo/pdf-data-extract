@@ -9,3 +9,4 @@ Data/
 # Python cache files.
 __pycache__/
 .env
+.env
