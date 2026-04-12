@@ -1,0 +1,2 @@
+firm_name,files_processed,pages_total,pages_excluded,chunks_total,chunks_indexed,retrieved_rows,deduplicated_retrieval_rows,classification_rows,final_relevant_rows,low_output_warning
+Samsung,5,1872,317,2713,2618,345,115,115,58,False

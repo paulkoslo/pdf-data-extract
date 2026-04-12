@@ -1,2 +1,2 @@
 firm_name,files_processed,pages_total,pages_excluded,chunks_total,chunks_indexed,retrieved_rows,deduplicated_retrieval_rows,classification_rows,final_relevant_rows,low_output_warning
-Elmos,5,446,46,1313,1313,345,107,107,92,False
+Elmos,5,446,6,1422,1415,575,174,174,115,False

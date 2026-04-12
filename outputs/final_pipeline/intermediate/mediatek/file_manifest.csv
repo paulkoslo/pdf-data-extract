@@ -1,6 +1,5 @@
 firm_name,fiscal_year,source_file,folder_name,file_name
-MediaTek,2021,/Users/paulkoslowsky/Github/Jakop/Data/MediaTek/MediaTek_2021.pdf,MediaTek,MediaTek_2021.pdf
-MediaTek,2022,/Users/paulkoslowsky/Github/Jakop/Data/MediaTek/MediaTek_2022.pdf,MediaTek,MediaTek_2022.pdf
-MediaTek,2023,/Users/paulkoslowsky/Github/Jakop/Data/MediaTek/MediaTek_2023.pdf,MediaTek,MediaTek_2023.pdf
-MediaTek,2024,/Users/paulkoslowsky/Github/Jakop/Data/MediaTek/MediaTek_2024.pdf,MediaTek,MediaTek_2024.pdf
-MediaTek,2025,/Users/paulkoslowsky/Github/Jakop/Data/MediaTek/MediaTek_2025.pdf,MediaTek,MediaTek_2025.pdf
+Mediatek,2021,/Users/paulkoslowsky/Github/Jakop/Data/MediaTek/Mediatek 2021.pdf,MediaTek,Mediatek 2021.pdf
+Mediatek,2022,/Users/paulkoslowsky/Github/Jakop/Data/MediaTek/Mediatek 2022.pdf,MediaTek,Mediatek 2022.pdf
+Mediatek,2023,/Users/paulkoslowsky/Github/Jakop/Data/MediaTek/Mediatek 2023.pdf,MediaTek,Mediatek 2023.pdf
+Mediatek,2024,/Users/paulkoslowsky/Github/Jakop/Data/MediaTek/Mediatek 2024.pdf,MediaTek,Mediatek 2024.pdf
