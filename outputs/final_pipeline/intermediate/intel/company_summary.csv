@@ -1,2 +1,0 @@
-firm_name,files_processed,pages_total,pages_excluded,chunks_total,chunks_indexed,retrieved_rows,deduplicated_retrieval_rows,classification_rows,final_relevant_rows,low_output_warning
-Intel,1,185,13,386,385,575,125,125,43,True

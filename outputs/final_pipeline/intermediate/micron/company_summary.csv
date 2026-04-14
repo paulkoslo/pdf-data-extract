@@ -1,2 +1,0 @@
-firm_name,files_processed,pages_total,pages_excluded,chunks_total,chunks_indexed,retrieved_rows,deduplicated_retrieval_rows,classification_rows,final_relevant_rows,low_output_warning
-Micron,1,119,0,297,297,575,92,92,42,True
