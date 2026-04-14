@@ -1,6 +1,2 @@
 firm_name,fiscal_year,source_file,folder_name,file_name
-ASML,2021,/Users/paulkoslowsky/Github/Jakop/Data/ASML/ASML_2021.pdf,ASML,ASML_2021.pdf
-ASML,2022,/Users/paulkoslowsky/Github/Jakop/Data/ASML/ASML_2022.pdf,ASML,ASML_2022.pdf
-ASML,2023,/Users/paulkoslowsky/Github/Jakop/Data/ASML/ASML_2023.pdf,ASML,ASML_2023.pdf
-ASML,2024,/Users/paulkoslowsky/Github/Jakop/Data/ASML/ASML_2024.pdf,ASML,ASML_2024.pdf
-ASML,2025,/Users/paulkoslowsky/Github/Jakop/Data/ASML/ASML_2025.pdf,ASML,ASML_2025.pdf
+ASML,2017,/Users/paulkoslowsky/Github/Jakop/Data/ASML/ASML_2017.pdf,ASML,ASML_2017.pdf

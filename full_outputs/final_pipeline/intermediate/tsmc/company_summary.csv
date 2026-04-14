@@ -1,0 +1,2 @@
+firm_name,files_processed,pages_total,pages_excluded,chunks_total,chunks_indexed,retrieved_rows,deduplicated_retrieval_rows,classification_rows,final_relevant_rows,low_output_warning
+TSMC,4,919,2,2102,2075,575,178,178,124,False

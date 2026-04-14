@@ -1,2 +1,2 @@
 firm_name,files_processed,pages_total,pages_excluded,chunks_total,chunks_indexed,retrieved_rows,deduplicated_retrieval_rows,classification_rows,final_relevant_rows,low_output_warning
-Qualcom,5,439,2,1452,1447,575,145,145,101,False
+Qualcom,1,148,1,420,419,575,126,126,41,True

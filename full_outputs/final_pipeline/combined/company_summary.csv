@@ -1,0 +1,12 @@
+firm_name,files_processed,pages_total,pages_excluded,chunks_total,chunks_indexed,retrieved_rows,deduplicated_retrieval_rows,classification_rows,final_relevant_rows,low_output_warning
+ASML,5,1713,17,4357,4317,575,288,288,198,False
+Elmos,5,446,6,1422,1415,575,174,174,115,False
+GlobalFoundries,5,1224,25,2951,2938,575,216,216,164,False
+Infineon,5,999,5,2154,2147,575,214,214,134,False
+Intel,5,813,15,2131,2061,575,199,199,142,False
+Mediatek,4,1387,56,2553,2490,575,208,208,99,False
+MicronTechnology,5,695,7,1573,1569,575,192,192,136,False
+NXP,5,689,37,1484,1476,575,167,167,78,False
+Qualcom,5,439,2,1452,1447,575,145,145,101,False
+Samsung,5,1872,21,3219,3071,575,180,180,77,False
+TSMC,4,919,2,2102,2075,575,178,178,124,False

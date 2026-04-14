@@ -1,0 +1,2 @@
+firm_name,files_processed,pages_total,pages_excluded,chunks_total,chunks_indexed,retrieved_rows,deduplicated_retrieval_rows,classification_rows,final_relevant_rows,low_output_warning
+Mediatek,4,1387,56,2553,2490,575,208,208,99,False

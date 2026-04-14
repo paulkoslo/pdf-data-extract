@@ -1,2 +1,2 @@
 firm_name,files_processed,pages_total,pages_excluded,chunks_total,chunks_indexed,retrieved_rows,deduplicated_retrieval_rows,classification_rows,final_relevant_rows,low_output_warning
-ASML,5,1713,17,4357,4317,575,288,288,198,False
+ASML,1,210,23,477,474,575,131,131,73,False
